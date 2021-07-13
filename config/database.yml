@@ -1,0 +1,9 @@
+development:
+  adapter : postgresql
+  pool : 5
+  database  : private
+  host : localhost
+  username : enduser
+  password  : seceret
+  port : 5432
+  encoding : UTF8
